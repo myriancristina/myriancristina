@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Myrian Cristina Silva 👋
 
 - 🔭 Em busca de novas oportunidades no mercado de trabalho
-- 🌱 Estudando JavaScript
+- 🌱 Estudando JavaScript no momento
 -  ❤ Apaixonada por tecnologia
 - 🤔 Graduação em Andamento {6/6}
 
