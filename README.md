@@ -1,7 +1,8 @@
 ## Olá! Eu sou a Myrian Cristina Silva 👋
 
 - 🔭 Em busca de novas oportunidades no mercado de trabalho
-- 🌱 Estudando JavaScript no momento
+- 🌱 Estudando JavaScript, Testes Automatizados, SAP ABAP Básico no momento
+- 🌱 Próxima missão: Curso de Certif. Amazon AWS
 -  ❤ Apaixonada por tecnologia
 - 🤔 Graduação em Andamento {6/6}
 
