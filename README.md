@@ -9,8 +9,6 @@ Hello I'm Myrian Cristina Silva</h1>
 -  ❤ Apaixonada por tecnologia
 - 🤔 Graduação em Andamento {6/6}
 
-##
-
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -25,15 +23,13 @@ Hello I'm Myrian Cristina Silva</h1>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<br><br>
-
  <div>
   <a href="https://github.com/myriancristina">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=myriancristina&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myriancristina&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  ##
+## 😎 &nbsp;Social Links
  
 <div> 
    <a href="https://instagram.com/_myriancristina" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
