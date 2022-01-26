@@ -1,4 +1,8 @@
-## Olá! Eu sou a Myrian Cristina Silva 👋
+<h1 align="center">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+Hello I'm Myrian Cristina Silva  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+</h1>
+
 
 - 🔭 Em busca de novas oportunidades no mercado de trabalho
 - 🌱 Estudando JavaScript, Testes Automatizados, SAP ABAP Básico no momento
