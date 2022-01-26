@@ -26,6 +26,11 @@ Hello I'm Myrian Cristina Silva</h1>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=myriancristina&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myriancristina&layout=compact&langs_count=7&theme=dark"/>
 </div>
+ 
+ <p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+</p>
   
 ## 😎 &nbsp;Social Links
  
