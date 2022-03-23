@@ -5,7 +5,7 @@ Hello I'm Myrian Cristina Silva</h1>
 
 - 🔭 Em busca de novas oportunidades no mercado de trabalho;
 - 🌱 Estudando Automação de Testes + Fundamentos e Técnicas do Teste de Software no momento;
-- 🌱 Próxima missão: Curso de Certif. Amazon AWS;
+- 🌱 Próxima missão: Python, Java Fundamentos, e Gestão de Infraestrutura de TI;
 -  ❤ Apaixonada por tecnologia;
 - 🤔 Graduação em Andamento {6/6}
 
