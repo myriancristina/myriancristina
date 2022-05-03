@@ -7,7 +7,7 @@ Hello I'm Myrian Cristina Silva</h1>
 - 🌱 Estudando Automação de Testes + Fundamentos e Técnicas do Teste de Software no momento;
 - 🌱 Próxima missão: Python, Java Fundamentos, e Gestão de Infraestrutura de TI;
 -  ❤ Apaixonada por tecnologia;
-- 🤔 Graduação em Andamento {6/6}
+- 🤔 Formada em Gestão da Tecnologia da Informação
 
 ## 🛠 &nbsp;Tech Stack
 
