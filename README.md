@@ -2,6 +2,16 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 Hello I'm Myrian Cristina Silva</h1>
 
+## 😎 &nbsp;Social Links
+ 
+<div> 
+   <a href="https://instagram.com/_myriancristina" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:myriancristinasilva@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/myriancristinasilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  
+  
+</div>
+
 
 - 🔭 Em busca de novas oportunidades no mercado de trabalho;
 - 🌱 Estudando Automação de Testes + Fundamentos e Técnicas do Teste de Software no momento;
@@ -26,12 +36,4 @@ Hello I'm Myrian Cristina Silva</h1>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myriancristina&layout=compact&theme=vision-friendly-dark" alt="myriancristina's most languages"/>
 </p>
   
-## 😎 &nbsp;Social Links
- 
-<div> 
-   <a href="https://instagram.com/_myriancristina" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:myriancristinasilva@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/myriancristinasilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  
-  
-</div>
+
