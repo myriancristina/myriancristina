@@ -2,6 +2,8 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 Hello I'm Myrian Cristina Silva</h1>
 
+<img src="https://media-exp1.licdn.com/dms/image/C4E16AQG_tX0QhwnZuw/profile-displaybackgroundimage-shrink_350_1400/0/1654014956647?e=1659571200&v=beta&t=jXCfNLHYVhfvosNSH5uo1HjMIYsIcyVBowAsx0Epd3Q">
+
 ## 😎 &nbsp;Social Links
  
 <div> 
