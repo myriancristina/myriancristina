@@ -15,11 +15,10 @@ Hello I'm Myrian Cristina Silva</h1>
 </div>
 
 
-- 🙌🏻 Em busca de novas oportunidades no mercado de trabalho;
-- ❕ Estudando Automação de Testes + Fundamentos e Técnicas do Teste de Software no momento;
-- 📚 Próxima missão: Python, Java Fundamentos, e Gestão de Infraestrutura de TI;
+- 🙌🏻 Em busca de recolocação;
+- 📚 Próxima missão: PHP, Cadastro e Login com Laravel;
 - 💻 Apaixonada por tecnologia;
-- 🧑🏻‍🎓 Formada em Gestão da Tecnologia da Informação
+- 🧑🏻‍🎓 Graduação em download;
 
 ## 🛠 &nbsp;Tech Stack
 
