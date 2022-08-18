@@ -14,7 +14,7 @@ Hello I'm Myrian Cristina Silva</h1>
 
 
 - 🙌🏻 Em busca de recolocação;
-- 📚 Estudando e Desenvolvendo: Criação de Sistema com Reactive Web App;
+- 📚 Estudando e Desenvolvendo: Criação de Sistema com Reactive Web App | Laravel;
 - 📚 Próxima missão: Framework, Protheus;
 - 💻 Apaixonada por tecnologia;
 - 🧑🏻‍🎓 Graduação em download;
